@@ -1,0 +1,2 @@
+# Programming task 2: Phrase/Sentence similarity
+## This folder contains the code/notebook to run my custom MLPClassifier implementation of both the Phrase and Sentence similarity detection task along with the code/models for the BONUS TASK: SIMBArt. The notebook has detailed instructions at every step. The .h5 weights for both BERT models are already available locally and hence can be loaded up and tested immediately.
