@@ -10,3 +10,6 @@
 
 ## Bonus Task: SIMBArt
 ### Bonus task is at the end of the phrase/sentence similarity notebook. The weights of the trained model are already in the same folder within the repo. Just load and test.
+
+## Paper-Reading Task
+### The Paper reading task is done in the presentation linked above.
